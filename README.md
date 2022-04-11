@@ -28,6 +28,8 @@ A Colorado Board of Elections has offered the following tasks to complete the el
   4. The winner of the election was Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
 
-The following image portrays the elction result in summary: <img width="383" alt="Screen Shot 2022-04-10 at 9 21 34 PM" src="https://user-images.githubusercontent.com/101376325/162654541-39fd7ea8-3ec7-4fdc-8c3a-458940d2b2c8.png">
+The following image portrays the election result in summary:
+
+<img width="383" alt="Screen Shot 2022-04-10 at 9 21 34 PM" src="https://user-images.githubusercontent.com/101376325/162654541-39fd7ea8-3ec7-4fdc-8c3a-458940d2b2c8.png">
 
 
