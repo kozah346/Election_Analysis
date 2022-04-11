@@ -16,7 +16,11 @@ A Colorado Board of Elections has offered the following tasks to complete the el
  ## Summary
 
  The analysis of the election shows that:
-  1. A total of 369,711 votes were cast in the election.
+  1. A total of 369,711 votes were cast in the election. Voter turnout per county was as follows:
+     a) Jefferson: 10.5% (38,855)
+     b) Denver: 82.8% (306,055)
+     c) Arapahoe: 6.7% (24,801)
+    Denver had the largest voter turnout.
   2. The candidates were:
      a) Charles Casper Stockham
      b) Diana DeGette
@@ -31,5 +35,12 @@ A Colorado Board of Elections has offered the following tasks to complete the el
 The following image portrays the election result in summary:
 
 <img width="383" alt="Screen Shot 2022-04-10 at 9 21 34 PM" src="https://user-images.githubusercontent.com/101376325/162654541-39fd7ea8-3ec7-4fdc-8c3a-458940d2b2c8.png">
+
+  ## Using the script
+  
+  The script can be used for future elections by tweaking it a little bit witrh changes such as:
+    1. Adding or subtracting the number of candidates.
+    2. Adding or subtracting the number of counties.
+    3. Using int function instead of float function. 
 
 
